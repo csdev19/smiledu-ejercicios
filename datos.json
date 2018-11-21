@@ -1,0 +1,103 @@
+var datos = [
+	{ 
+		"nombre" : "diego", 
+		"apellido" : "flores robles", 
+		"correo" : "diego@gmail.com",
+		"dni": 123123123,
+		"fecha_de_nacimiento": 1980,
+		"nombre_usuario": "",
+		"edad": 0,
+		"distrito": "Surco",
+		"hobbies": ["jugar futbal"]
+	},
+	{ 
+		"nombre" : "maria", 
+		"apellido" : "flores huarhua", 
+		"correo" : "luis@gmail.com",
+		"dni": 123123123,
+		"fecha_de_nacimiento": 1960,
+		"nombre_usuario": "",
+		"edad": 0,
+		"distrito": "Los olivos",
+		"hobbies": ["natacion"]
+	},
+	{ 
+		"nombre" : "pepe", 
+		"apellido" : "velazques", 
+		"correo" : "pepe@gmail.com",
+		"dni": 123123123,
+		"fecha_de_nacimiento": 2000,
+		"nombre_usuario": "",
+		"edad": 0,
+		"distrito": "San Isidro",
+		"hobbies": ["jugar play"]
+	},
+	{ 
+		"nombre" : "diego", 
+		"apellido" : "perez del solar", 
+		"correo" : "perez123@gmail.com",
+		"dni": 123123123,
+		"fecha_de_nacimiento": 2005,
+		"nombre_usuario": "",
+		"edad": 0,
+		"distrito": "Villa maria del triunfo",
+		"hobbies": ["parkour"]
+	},
+	{ 
+		"nombre" : "carlos", 
+		"apellido" : "flores belen", 
+		"correo" : "carlos123@gmail.com",
+		"dni": 123123123,
+		"fecha_de_nacimiento": 1989,
+		"nombre_usuario": "",
+		"edad": 0,
+		"distrito": "Miraflores",
+		"hobbies": ["voley"]
+	},
+	{ 
+		"nombre" : "fatima", 
+		"apellido" : "de la cruz dasdasdsadsa", 
+		"correo" : "fatima@gmail.com",
+		"dni": 123123123,
+		"fecha_de_nacimiento": 1992,
+		"nombre_usuario": "",
+		"edad": 0,
+		"distrito": "Villa el salvador",
+		"hobbies": ["gimnasia"]
+	},
+	{ 
+		"nombre" : "alan", 
+		"apellido" : "garcia garcia", 
+		"correo" : "carlos@gmail.com",
+		"dni": 123123123,
+		"fecha_de_nacimiento": 1952,
+		"nombre_usuario": "",
+		"edad": 0,
+
+		"distrito": "San Gabriel",
+		"hobbies": ["correr"]
+	},
+	{ 
+		"nombre" : "diego", 
+		"apellido" : "fujimori garcia", 
+		"correo" : "krlos12.41@gmail.com",
+		"dni": 123123123,
+		"fecha_de_nacimiento": 1924,
+		"nombre_usuario": "",
+		"edad": 0,
+		"distrito": "San isidro",
+		"hobbies": ["comer"]
+	},
+	{ 
+		"nombre" : "cristian", 
+		"apellido" : "sotomayor gonzales", 
+		"correo" : "cristiansotomayor1913@gmail.com",
+		"dni": 123123123,
+		"fecha_de_nacimiento": 1998,
+		"nombre_usuario": "",
+		"edad": 0,
+		"distrito": "San juan de miraflores",
+		"hobbies": ["natacion"]
+	},
+]
+
